@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<>&#128218</> Skills usadas :
+<p>&#128218</> Skills usadas :
 
 HTML <br/>
 JavaScript <br/>
