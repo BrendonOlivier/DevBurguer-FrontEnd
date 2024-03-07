@@ -6,7 +6,7 @@
 Skills usadas :
 
 HTML <br/>
-JavaScript
+JavaScript <br/>
 React
 <br/>
 <br/>
