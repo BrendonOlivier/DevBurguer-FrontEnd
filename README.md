@@ -13,8 +13,8 @@ React
 
 Ferramentas auxiliares:
 
-yarn
-styled-components
-react-router-dom
-Cors
+yarn <br/>
+styled-components<br/>
+react-router-dom <br/>
+Cors <br/>
 Axios
