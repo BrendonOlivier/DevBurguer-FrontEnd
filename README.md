@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<p>&#128218</> Skills usadas :
+<p>&#128218/> Skills usadas :
 
 HTML <br/>
 JavaScript <br/>
@@ -11,7 +11,7 @@ React
 <br/>
 <br/>
 
-<p>&#128450</p>Ferramentas auxiliares:  
+<p>&#128450/>Ferramentas auxiliares:  
 
 yarn <br/>
 styled-components<br/>
