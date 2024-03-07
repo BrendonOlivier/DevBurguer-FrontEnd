@@ -11,7 +11,7 @@ React
 <br/>
 <br/>
 
-<p>&#128450</>Ferramentas auxiliares:  
+<p>&#128450</> Ferramentas auxiliares:  
 
 yarn <br/>
 styled-components<br/>
