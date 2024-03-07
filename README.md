@@ -1,4 +1,4 @@
-<h1>Dev Burguer </h1>
+<h1>Dev Burguer &#127828</h1>
 <h2>Front End </H2>
 <br/>
 <br/>
