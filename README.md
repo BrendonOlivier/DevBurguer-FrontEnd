@@ -19,10 +19,11 @@
 <li>yarn</li> 
 <li>Cors</li>
 <li>Axios</li>
-<br/>
-<h3>"Fazer o pedido"</h3>
-![Screen 1](https://github.com/BrendonOlivier/DevBurguer-FrontEnd/assets/158518246/355533ba-7fd1-4364-94f0-390f2eedc8eb)
-<br/>
-<br/>
-<h3>"Lista dos pedidos"</h3>
+
+
+![Screen 1](https://github.com/BrendonOlivier/DevBurguer-FrontEnd/assets/158518246/b216d1c6-69af-4b2d-b2ae-6ede4baab2b8)
+
+
 ![Screen 2](https://github.com/BrendonOlivier/DevBurguer-FrontEnd/assets/158518246/b8085eea-8bde-441a-832d-b1e334a85af9)
+
+
