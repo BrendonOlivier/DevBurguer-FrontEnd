@@ -10,12 +10,19 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <br/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <br/>
 <br/>
+<li>styled-components</li>
+<li>react-router-dom</li>
 <br/>
 
 <p>&#128450</> Ferramentas auxiliares:  
 
 <li>yarn</li> 
-<li>styled-components</li>
-<li>react-router-dom</li>
 <li>Cors</li>
 <li>Axios</li>
+<br/>
+<h3>"Fazer o pedido"</h3>
+![Screen 1](https://github.com/BrendonOlivier/DevBurguer-FrontEnd/assets/158518246/355533ba-7fd1-4364-94f0-390f2eedc8eb)
+<br/>
+<br/>
+<h3>"Lista dos pedidos"</h3>
+![Screen 2](https://github.com/BrendonOlivier/DevBurguer-FrontEnd/assets/158518246/b8085eea-8bde-441a-832d-b1e334a85af9)
